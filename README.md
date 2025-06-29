@@ -43,3 +43,21 @@ This repository contains logs and work from my internship at AISECT.
 #### 💬 Reflection:
 Didn’t feel motivated for DSA today, but I stayed consistent by focusing on the internship instead. That’s still progress — and it counts.
 
+###**Day 3:June 28,2025**
+####Topics Covered:
+-Differentiating between the terms artificial intelligence,data science and machine learning:
+ -learnt how all these terms fall in the same domains every now and then,but essentially,each of these terms have unique uses of its own
+ -scope of data science:pridictive analysis
+ data scientists use a combination of tools:
+ **applications**
+ **principles**
+ **algorithms**
+ -What is artificial intelligence?
+ -artificial intelligence aims at enabling machines to execute reasoning by replicating human intelligence
+ #### Key takeways:
+ -Data science:The process of extracting insights from data using statistics, analysis, and visualization.
+ -Machine learning:A subset of AI that uses data to train models which can learn and make predictions
+ -Artificial intelligence:A broader concept where machines simulate human-like intelligence to perform tasks.
+ 
+ 
+ 
