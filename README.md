@@ -1,10 +1,14 @@
-# aisect-internship-2025
-Work done during my internship at AISECT
-# AISECT Internship – Python in Data Science
+# AISECT Python Internship – 2025
 
-This repository contains logs and work from my internship at AISECT.
+This folder documents my journey through the AISECT-led Python internship program. The internship includes a structured curriculum focused on Python fundamentals, data structures, real-world examples, and beginner-friendly projects.
 
----
+## 🌟 Key Learning Areas:
+- Python syntax and logic building
+- Control flow, functions, and file handling
+- Applications in data analysis and automation
+
+I’ll be updating this folder with notes, exercises, and mini-projects as I move through each module.
+
 
 ## 📚 Internship Logs
 
