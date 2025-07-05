@@ -47,7 +47,7 @@ I’ll be updating this folder with notes, exercises, and mini-projects as I mov
 #### 💬 Reflection:
 Didn’t feel motivated for DSA today, but I stayed consistent by focusing on the internship instead. That’s still progress — and it counts.
 
-###Day 3: June 28, 2025
+### Day 3: June 28, 2025
  Topics Covered:
 
 Difference between Artificial Intelligence, Data Science, and Machine Learning:
