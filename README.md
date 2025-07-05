@@ -2,7 +2,7 @@
 
 This folder documents my journey through the AISECT-led Python internship program. The internship includes a structured curriculum focused on Python fundamentals, data structures, real-world examples, and beginner-friendly projects.
 
-## 🌟 Key Learning Areas:
+##  Key Learning Areas:
 - Python syntax and logic building
 - Control flow, functions, and file handling
 - Applications in data analysis and automation
@@ -10,9 +10,9 @@ This folder documents my journey through the AISECT-led Python internship progra
 I’ll be updating this folder with notes, exercises, and mini-projects as I move through each module.
 
 
-## 📚 Internship Logs
+##  Internship Logs
 
-### 📅 Day 1 – Introduction to Data Analytics
+###  Day 1 – Introduction to Data Analytics
 
 **Video Watched:** "Introduction to Data Analytics"
 
@@ -24,8 +24,8 @@ I’ll be updating this folder with notes, exercises, and mini-projects as I mov
 **Why It Matters:**
 - Companies use analytics to improve decision-making, personalization, and growth.
 - This sets the foundation for Python-based tools we'll learn (like Pandas, NumPy, etc.)
- ### 📅 **Day 2: June 25, 2025**
-#### ✅ Topics Covered:
+ ###  **Day 2: June 25, 2025**
+####  Topics Covered:
 - Real-life applications of Data Science:
   - Fraud detection, recommendation systems, traffic prediction, and healthcare diagnostics.
 - Job roles and responsibilities in the field:
@@ -39,7 +39,7 @@ I’ll be updating this folder with notes, exercises, and mini-projects as I mov
   - Research & academic institutions
   - Freelancing or launching personal projects
 
-#### 🧠 Key Takeaways:
+#### Key Takeaways:
 - Data science impacts nearly every industry today.
 - There are many exciting and flexible paths to build a future in DS/AI/ML.
 - Understanding roles early helps in planning the right skillset.
@@ -47,8 +47,8 @@ I’ll be updating this folder with notes, exercises, and mini-projects as I mov
 #### 💬 Reflection:
 Didn’t feel motivated for DSA today, but I stayed consistent by focusing on the internship instead. That’s still progress — and it counts.
 
-📅 Day 3: June 28, 2025
-✅ Topics Covered:
+###Day 3: June 28, 2025
+ Topics Covered:
 
 Difference between Artificial Intelligence, Data Science, and Machine Learning:
 Learned how these terms are often used interchangeably, but each has distinct roles and purposes
@@ -62,5 +62,11 @@ Algorithms
 What is Artificial Intelligence?
 AI aims to enable machines to perform reasoning by replicating human intelligence
  
+###  Day 4 - July 5, 2025
+-  Watched videos on:
+  - Python Variables & Data Types
+  - Python Strings & String Methods
+-  Practiced examples in code
+-  [the file named day 4 is attached with this)
  
  
