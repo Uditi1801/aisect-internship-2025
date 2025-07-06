@@ -44,7 +44,7 @@ I’ll be updating this folder with notes, exercises, and mini-projects as I mov
 - There are many exciting and flexible paths to build a future in DS/AI/ML.
 - Understanding roles early helps in planning the right skillset.
 
-#### 💬 Reflection:
+####  Reflection:
 Didn’t feel motivated for DSA today, but I stayed consistent by focusing on the internship instead. That’s still progress — and it counts.
 
 ### Day 3: June 28, 2025
@@ -68,5 +68,26 @@ AI aims to enable machines to perform reasoning by replicating human intelligenc
   - Python Strings & String Methods
 -  Practiced examples in code
 -  [the file named day 4 is attached with this)
+  
+  # Day 5 – AISECT Python Internship Progress
+
+##  What I did today:
+- Practiced basic if-else statements in Python
+- Watched 3 video tutorials on:
+  - Conditional statements
+  - For loops
+  - While loops
+
+##  Concepts Covered:
+- Writing if-elif-else blocks
+- Using `for` and `while` loops to iterate over data
+- Understanding loop control flow and logic
+
+##  What I’ll do next:
+- Solve beginner problems involving conditions and loops
+- Try using nested loops and conditionals in small challenges
+
+#LearningInPublic #Python #InternshipProgress
+
  
  
