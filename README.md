@@ -87,7 +87,9 @@ AI aims to enable machines to perform reasoning by replicating human intelligenc
 - Solve beginner problems involving conditions and loops
 - Try using nested loops and conditionals in small challenges
 
-#LearningInPublic #Python #InternshipProgress
-
+# Day 4-Aisect Python INternship progress today
+## What i did today:
+-Did the quiz on numpy,arrays
+-Watched 5 video lectures
  
  
